@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "14109826610",
+    "firebase_url": "https://whatsapp-fbe24.firebaseio.com",
+    "project_id": "whatsapp-fbe24",
+    "storage_bucket": "whatsapp-fbe24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14109826610:android:370bed5825ab0c90",
+        "android_client_info": {
+          "package_name": "br.com.whatsappandroid.crusoandroid.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14109826610-jn1frfcn8p11dd7j8uebam96k9pivj45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.whatsappandroid.crusoandroid.whatsapp",
+            "certificate_hash": "18532b25792b5c88c418e38adfe5c455f8fd9ac8"
+          }
+        },
+        {
+          "client_id": "14109826610-t6j776lr75i4s5e0h3iapcg8n4cuqdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYPQDB1N7W815Nx_iA-xLOY2fO0J5yyHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14109826610-t6j776lr75i4s5e0h3iapcg8n4cuqdil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14109826610:android:76b5e01388ec2bd1",
+        "android_client_info": {
+          "package_name": "br.com.whatsappandroid.crusoandroid.whatsapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14109826610-t6j776lr75i4s5e0h3iapcg8n4cuqdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYPQDB1N7W815Nx_iA-xLOY2fO0J5yyHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
