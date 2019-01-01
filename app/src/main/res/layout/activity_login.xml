@@ -24,7 +24,7 @@
             app:srcCompat="@drawable/logo" />
 
         <EditText
-            android:id="@+id/editText"
+            android:id="@+id/edit_nome"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
 
@@ -39,11 +39,11 @@
             android:textColor="@color/textColorPrimary" />
 
         <EditText
-            android:id="@+id/editText2"
+            android:id="@+id/edit_cod_pais"
             android:layout_width="50dp"
             android:layout_height="wrap_content"
 
-            android:layout_alignTop="@+id/editText"
+            android:layout_alignTop="@+id/edit_nome"
 
             android:layout_marginLeft="10dp"
             android:layout_marginTop="50dp"
@@ -53,12 +53,12 @@
             android:textColor="@color/textColorPrimary" />
 
         <EditText
-            android:id="@+id/editText3"
+            android:id="@+id/edit_cod_area"
             android:layout_width="50dp"
             android:layout_height="wrap_content"
 
-            android:layout_alignLeft="@+id/editText2"
-            android:layout_alignTop="@+id/editText"
+            android:layout_alignLeft="@+id/edit_cod_pais"
+            android:layout_alignTop="@+id/edit_nome"
 
             android:layout_marginLeft="60dp"
             android:layout_marginTop="50dp"
@@ -68,12 +68,12 @@
             android:textColor="@color/textColorPrimary" />
 
         <EditText
-            android:id="@+id/editText4"
+            android:id="@+id/edit_telefone"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
 
-            android:layout_alignLeft="@+id/editText3"
-            android:layout_alignTop="@+id/editText"
+            android:layout_alignLeft="@+id/edit_cod_area"
+            android:layout_alignTop="@+id/edit_nome"
             android:layout_alignParentRight="true"
 
             android:layout_marginLeft="60dp"
@@ -85,11 +85,11 @@
             android:textColor="@color/textColorPrimary" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/button_cadastrar"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
 
-            android:layout_alignTop="@+id/editText4"
+            android:layout_alignTop="@+id/edit_telefone"
 
             android:layout_marginLeft="10dp"
             android:layout_marginTop="50dp"

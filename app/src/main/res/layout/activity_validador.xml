@@ -52,7 +52,7 @@
             android:textSize="14sp" />
 
         <EditText
-            android:id="@+id/editText6"
+            android:id="@+id/edit_cod_validacao"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
@@ -67,7 +67,7 @@
             android:textColor="@color/textColorPrimary" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/button_validar"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
 
